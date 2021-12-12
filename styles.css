@@ -1,0 +1,24 @@
+.main-container {
+  margin: 0 auto;
+  width: 75%;
+}
+
+.heading {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content:space-around;
+  margin: 5%;
+}
+
+#click-me-btn {
+  background-color: aqua;
+  margin: 10px;
+  cursor: pointer;
+}
+#reset-btn {
+  margin: 10px;
+  cursor: pointer;
+}
